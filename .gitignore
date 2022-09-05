@@ -1,0 +1,13 @@
+*.targets
+*.props
+*.json
+*.editorconfig
+*.dll
+*.pdb
+*.cache
+*.testlog
+*.manifest
+*.txt
+*.CopyComplete
+*.v2
+*.exe
